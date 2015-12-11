@@ -3,7 +3,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/mstn-NXTClient"/>
-	<classpathentry kind="lib" path="C:/Lejos/lib/pccomm.jar"/>
-	<classpathentry kind="lib" path="C:/Lejos/3rdparty/lib/bluecove.jar"/>
+	<classpathentry kind="lib" path="/libs/lego-nxt/bluecove.jar"/>
+	<classpathentry kind="lib" path="/libs/lego-nxt/pccomm.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

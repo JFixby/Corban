@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Lejos/lib/classes.jar"/>
-	<classpathentry kind="lib" path="C:/Lejos/lib/jtools.jar"/>
-	<classpathentry kind="lib" path="C:/Lejos/lib/pccomm.jar"/>
-	<classpathentry kind="lib" path="C:/Lejos/lib/pctools.jar"/>
+	<classpathentry kind="lib" path="/libs/lego-nxt/classes.jar"/>
+	<classpathentry kind="lib" path="/libs/lego-nxt/jtools.jar"/>
+	<classpathentry kind="lib" path="/libs/lego-nxt/pccomm.jar"/>
+	<classpathentry kind="lib" path="/libs/lego-nxt/pctools.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
